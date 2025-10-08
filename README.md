@@ -9,7 +9,7 @@
 
 ![image alt](https://github.com/wardahbinte/Portfolio-Website/blob/main/demo/Screenshot%202024-11-19%20131423.png?raw=true)
 
-![image alt[(https://github.com/wardahbinte/Portfolio-Website/blob/main/demo/Screenshot%202024-11-19%20131433.png?raw=true)
+![image alt](https://github.com/wardahbinte/Portfolio-Website/blob/main/demo/Screenshot%202024-11-19%20131433.png?raw=true)
 
 ![image alt](https://github.com/wardahbinte/Portfolio-Website/blob/main/demo/Screenshot%202024-11-19%20131439.png?raw=true)
 
